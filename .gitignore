@@ -1,0 +1,12 @@
+###> app ###
+credentials.json
+###< app ###
+
+###> symfony/framework-bundle ###
+/.env
+/public/bundles/
+/var/
+/vendor/
+###< symfony/framework-bundle ###
+
+.phpunit.result.cache
